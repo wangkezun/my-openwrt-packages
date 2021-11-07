@@ -1,3 +1,10 @@
+[submodule "luc-app-smartdns"]
+	path = smartdns/luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns.git
+	branch = lede
+[submodule "openwrt-smartdns"]
+	path = smartdns/openwrt-smartdns
+	url = https://github.com/pymumu/openwrt-smartdns.git
 [submodule "lua-maxminddb"]
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb.git
