@@ -11,3 +11,10 @@
 	path = smartdns/luci-app-smartdns
 	url = https://github.com/pymumu/luci-app-smartdns.git
 	branch = lede
+[submodule "openwrt-chinadns-ng"]
+	path = chinadns-ng/openwrt-chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
+[submodule "luci-app-chinadns-ng"]
+	path = chinadns-ng/luci-app-chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
+	branch = luci
