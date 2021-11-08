@@ -1,3 +1,6 @@
 [submodule "luci-app-vssr"]
 	path = luci-app-vssr
 	url = https://github.com/jerrykuku/luci-app-vssr.git
+[submodule "openwrt-chiandns-ng"]
+	path = chiandns-ng/openwrt-chinadns-ng
+	url = https://github.com/pexcn/openwrt-chinadns-ng.git
