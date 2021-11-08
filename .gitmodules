@@ -4,3 +4,10 @@
 [submodule "openwrt-chiandns-ng"]
 	path = chiandns-ng/openwrt-chinadns-ng
 	url = https://github.com/pexcn/openwrt-chinadns-ng.git
+[submodule "openwrt-smartdns"]
+	path = smartdns/openwrt-smartdns
+	url = https://github.com/pymumu/openwrt-smartdns.git
+[submodule "luci-app-smartdns"]
+	path = smartdns/luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns.git
+	branch = lede
