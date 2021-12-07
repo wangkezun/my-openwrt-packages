@@ -1,9 +1,3 @@
 [submodule "uuboost"]
 	path = luci-app-UUGameAcc
 	url = https://github.com/BCYDTZ/luci-app-UUGameAcc
-[submodule "openwrt-vlmcsd"]
-	path = openwrt-vlmcsd
-	url = https://github.com/cokebar/openwrt-vlmcsd
-[submodule "luci-app-vlmcsd"]
-	path = luci-app-vlmcsd
-	url = https://github.com/cokebar/luci-app-vlmcsd
