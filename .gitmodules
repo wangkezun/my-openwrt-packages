@@ -1,0 +1,3 @@
+[submodule "uuboost"]
+	path = luci-app-UUGameAcc
+	url = https://github.com/BCYDTZ/luci-app-UUGameAcc
